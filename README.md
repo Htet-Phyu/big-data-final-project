@@ -2,7 +2,21 @@
 
 ## Demo Video
 
-🎥 [Watch Project Demo on YouTube](https://youtu.be/UgTEH2BcXkA)
+<p align="center">
+  <a href="https://youtu.be/UgTEH2BcXkA" target="_blank">
+    <img 
+      src="https://img.youtube.com/vi/UgTEH2BcXkA/maxresdefault.jpg" 
+      alt="Big Data Project Demo Video" 
+      width="720"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/UgTEH2BcXkA" target="_blank">
+     ▶️ <b>Watch the full demo on YouTube</b>
+  </a>
+</p>
 
 ---
 
