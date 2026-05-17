@@ -1,7 +1,8 @@
 # Big Data Final Project
 
 ## Demo Video
-🎥 [Project Demo Recording](screenshots/demo.mp4)
+
+🎥 [Watch Project Demo on YouTube](https://youtu.be/UgTEH2BcXkA)
 
 ---
 
